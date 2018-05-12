@@ -1,0 +1,37 @@
+_repo: Yntemoca-yntlacamecayo-yn-tlahtoque-yn-teteuhctin-yn-ompa-tlaca-ypan-altepetl-culhuacan-yhuan__21802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chimalpahin Cuauhtlehuanitzin, Domingo Francisco de San Antón Muñón
+    aliases:
+    - Chimalpahin Cuauhtlehuanitzin, Domingo Francisco de San Anton Munon
+    - Cuauhtlehuanitzin, Domingo Francisco de San Antón Muñón Chimalpahin
+    birthdate: 1579
+    deathdate: 1660
+    gutenberg_agent_id: '24900'
+    url: http://www.gutenberg.org/2009/agents/24900
+description: ''
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21802'
+language: nah
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1201'
+- !lcsh 'Mexico City (Mexico) -- History'
+- !lcsh 'Aztecs -- Politics and government'
+- !lcsh 'Aztecs -- Government relations'
+- !lcsh 'Chimalpahin Cuauhtlehuanitzin, Domingo Francisco de San Antón Muñón, 1579-1660'
+- !lcsh 'Aztecs -- Social life and customs'
+title: 'Yntemoca yntlacamecayo, yn tlahtoque yn teteuhctin yn ompa tlaca ypan altepetl
+  culhuacan yhuan nican tlahtoque teteuhctin yn ipan in tlaca huey altepetl mexico
+  tenochtitlan
+
+  Oquitlallitiaque yn tlahtoque teteuhctin culhuacan'
+url: http://www.gutenberg.org/ebooks/21802
